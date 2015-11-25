@@ -1,7 +1,7 @@
 require './concurso.rb'
 require './jogo.rb'
 require './aposta.rb'
-require 'pry'
+#require 'pry'
 
 resultados = File.open('resultados.txt', 'r')
 jogos = []

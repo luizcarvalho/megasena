@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'pry'
-gem 'nokogumbo'
-gem 'nokogiri'
+# gem 'pry'
+# gem 'nokogumbo'
+# gem 'nokogiri'
